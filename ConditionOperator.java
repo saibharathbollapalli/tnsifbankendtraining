@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Both Operators and Condition Statements
 public class ConditionOperator{
 
 	public static void main(String[] args) {
